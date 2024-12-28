@@ -13,6 +13,7 @@ Flutter 기반의 랜덤 게임 애플리케이션으로, 다양한 랜덤화 �
 ## 스크린샷
 
 ![1번](./images/1.jpg)
+<img src="./images/1.jpg" width="100">
 
 ## 설치 방법
 

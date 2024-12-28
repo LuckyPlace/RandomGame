@@ -12,6 +12,7 @@ Flutter 기반의 랜덤 게임 애플리케이션으로, 다양한 랜덤화 �
 
 ## 스크린샷
 
+<div style="text-align: center;">
 <img src="./images/1.jpg" width="300">
 <img src="./images/2.jpg" width="300">
 <img src="./images/3.jpg" width="300">
@@ -19,6 +20,7 @@ Flutter 기반의 랜덤 게임 애플리케이션으로, 다양한 랜덤화 �
 <img src="./images/5.jpg" width="300">
 <img src="./images/6.jpg" width="300">
 <img src="./images/7.jpg" width="300">
+</div>
 
 ## 설치 방법
 
